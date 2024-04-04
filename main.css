@@ -3,11 +3,14 @@ height: 90px;
 width: 100%;
 background-color:#CBCDC8;
 position: fixed;
-flex-wrap: wrap;
+left: 0%;
+top: 0%;
+
 
  & .navigation {
     color: black;
     font-size: 40px;
+    flex-wrap: wrap;
 }
 
 }
