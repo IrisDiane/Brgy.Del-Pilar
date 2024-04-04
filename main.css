@@ -1,7 +1,9 @@
 header {
 height: 90px;
+width: auto;
 background-color:#CBCDC8;
 position: fixed;
+flex-wrap: wrap;
 
  & .navigation {
     color: black;
