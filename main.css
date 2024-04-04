@@ -1,0 +1,11 @@
+header {
+height: 90px;
+background-color:#CBCDC8;
+position: fixed;
+
+ & .navigation {
+    color: black;
+    font-size: 100px;
+}
+
+}
