@@ -11,11 +11,12 @@ top: 0%;
 .navigation {
     font-size: 30px;
     flex-wrap: wrap;
+    color: black;
+    font-size: 30px;
 
     & .navi{
         color: black;
         font-size: 30px;
         flex-wrap: wrap;
-
     }
 }
