@@ -9,7 +9,13 @@ top: 0%;
 }
 
 .navigation {
-    color: black;
     font-size: 30px;
     flex-wrap: wrap;
+
+    & .navi{
+        color: black;
+        font-size: 30px;
+        flex-wrap: wrap;
+
+    }
 }
