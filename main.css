@@ -6,11 +6,10 @@ position: fixed;
 left: 0%;
 top: 0%;
 
-
- & .navigation {
-    color: black;
-    font-size: 40px;
-    flex-wrap: wrap;
 }
 
+.navigation {
+    color: black;
+    font-size: 30px;
+    flex-wrap: wrap;
 }
